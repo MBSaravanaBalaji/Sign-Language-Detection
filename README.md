@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="path/to/working detection.png" alt="Project Banner" width="600" />
-</p>
-
 # Sign Language Recognition
 
-An end-to-end system for recognizing American Sign Language (ASL) gestures in real-time using Mediapipe Holistic for landmark detection and an LSTM neural network for temporal sequence classification.
+<p align="center">
+  <img src="working detection.png" alt="Test Image" width="400px"/>
+</p>
+
+A real-time ASL gesture recognition pipeline built in Python, leveraging OpenCV for live video capture, Mediapipe Holistic for advanced pose and hand landmark extraction, and a custom TensorFlow/Keras LSTM network for temporal sequence modeling and  gesture classification.
 
 ---
 

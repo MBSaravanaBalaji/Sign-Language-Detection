@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path/to/working detection.png" alt="Project Banner" width="600" />
+  <img src="working detection.png" alt=" Test Image" width="400px"/>
 </p>
 
 # Sign Language Recognition
